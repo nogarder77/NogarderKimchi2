@@ -1,0 +1,74 @@
+# Visual Studio 관련 파일
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# 빌드 결과물
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# MSTest 테스트 결과
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NuGet 패키지
+*.nupkg
+# NuGet 패키지 폴더
+**/packages/*
+# NuGet v3 패키지 복원 관련 폴더
+**/project.lock.json
+**/project.assets.json
+**/.project.assets.json
+**/.nuget.props
+
+# Visual Studio cache/options 디렉토리
+.vs/
+.vscode/
+
+# JetBrains Rider 관련 파일
+.idea/
+*.sln.iml
+.idea/
+
+# 임시 파일
+*.tmp
+*.temp
+*.swp
+*~
+*.bak
+*.cache
+
+# Windows 관련 파일
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS 관련 파일
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# PDF 관련 임시 파일 (프로그램 특성상 추가)
+RoyalPalaceKimchi_Temp_*.pdf
+
+# 로그 파일
+*.log
+
+# Visual Studio code coverage 결과
+*.coverage
+*.coveragexml 
+.fake
